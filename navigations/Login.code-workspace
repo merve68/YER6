@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Login",
+			"path": ".."
+		},
+		{
+			"name": "navigations",
+			"path": "..\\..\\..\\RN2\\Onboarding\\navigations"
+		}
+	],
+	"settings": {}
+}
